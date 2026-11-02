@@ -1,4 +1,4 @@
 # bin/scout from TechLuddite/Luddite-Scout, packaged into the skill.
 # build.sh downloads it at this commit and refuses any other bytes.
-commit=accc9bfb9f89d97bca7de1e0d43f48d2c9c57402
-sha256=d4532ca7116eed4d42d034182430cef0a29b6bec8d3739cc45a844812095e417
+commit=949c34b1d7afc485166708702b16f3da3d0aab05
+sha256=bb35050c383e274a3d873c3292a17c079398591d71b53b11d56304098c91909b
