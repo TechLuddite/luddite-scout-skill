@@ -40,7 +40,7 @@ CI builds every push and pull request. When `SKILL.md`, `scout.lock`, `build.sh`
 
 To move to a newer `bin/scout`, update `commit` and `sha256` in `scout.lock` together.
 
-Releases up to `skill-v0.3.1-cbeb849` were published from the Luddite Scout repository and verify with `--repo TechLuddite/Luddite-Scout`.
+Releases up to `skill-v0.3.1-d484fb9` were published from the Luddite Scout repository. They are no longer offered for download because they bundle an older `bin/scout`. Copies already downloaded still verify with `--repo TechLuddite/Luddite-Scout`.
 
 ## Licence
 
