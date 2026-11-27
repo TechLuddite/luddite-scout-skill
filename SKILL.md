@@ -49,7 +49,7 @@ Report only what the output says. Do not guess which file a rule came from or wh
 | `checks[].scorecard` | OpenSSF Scorecard score out of 10, present only when the repository has one |
 | `full_report` | the command the user runs for the full detail |
 
-Checks: S1 repository setup, S2 agent instruction files, S3 hidden Unicode, S4 GitHub Actions, S5 dependencies, S6 build-time code, S7 Omarchy plugin.
+Checks: S1 repository setup, S2 agent instruction files, S3 hidden Unicode, S4 GitHub Actions, S5 dependencies, S6 build-time code, S7 Omarchy plugin, S8 agent traps, S9 telemetry.
 
 ## Requirements
 
