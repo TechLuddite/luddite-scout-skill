@@ -4,7 +4,7 @@ An agent skill for Claude Code and the Claude apps that runs [Luddite Scout](htt
 
 **Status:** experimental, under active development.
 
-The skill packages `bin/scout` from Luddite Scout and runs it as `scout --agent owner/repo`. That mode prints only rule IDs, fixed descriptions, severities, statuses, counts, the repository name and the commit hash. How it works, and what it does not protect against, is in [docs/agent-skill.md](https://github.com/TechLuddite/Luddite-Scout/blob/main/docs/agent-skill.md) in the Luddite Scout repository.
+The skill packages `bin/scout` from Luddite Scout and runs it as `scout --agent owner/repo`, or as `scout --agent --dir PATH` for a folder on the machine. That mode prints only rule IDs, fixed descriptions, severities, statuses, counts, the repository name and the commit hash. For hidden characters it adds positions, code points and Unicode names from a fixed list. How it works, and what it does not protect against, is in [docs/agent-skill.md](https://github.com/TechLuddite/Luddite-Scout/blob/main/docs/agent-skill.md) in the Luddite Scout repository.
 
 ## Install
 
